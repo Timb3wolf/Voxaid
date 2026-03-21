@@ -1,0 +1,12 @@
+streamlit
+librosa
+numpy
+tensorflow-cpu==2.16.2
+h5py
+scipy
+matplotlib
+pytz
+folium
+streamlit-folium
+geocoder
+supabase
